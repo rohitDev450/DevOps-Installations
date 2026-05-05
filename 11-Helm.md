@@ -41,7 +41,7 @@ Helm is a package manager for Kubernetes, which simplifies deploying and managin
 3. **Verify installation:**
     
     ```bash
-    helm --version
+    helm version
     ```
     
 

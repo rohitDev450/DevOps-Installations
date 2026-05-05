@@ -32,7 +32,7 @@
 5. **Verify the installation:**
     
     ```bash
-    eksctl --version
+    eksctl version
     ```
     
 
